@@ -5,5 +5,5 @@ This project is a Test Score Calculator for the CIS 11 Final Project.
 This project was created in collaboration by Team Avalon.
 The team conisits of Allen Yang, Lorenzo Gimenez, and Isaac Kairu.
 
-##Setup
-To run this program run the .asm file in a LC3 simulator
+## Setup
+To run this program run the .asm file in an LC3 simulator
