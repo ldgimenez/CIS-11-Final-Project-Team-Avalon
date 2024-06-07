@@ -1,0 +1,2 @@
+Fixed error on line 78, changed SR to STR.
+Fixed error on line 94, changed LD to ADD to copy the AVERAGE from R2.
